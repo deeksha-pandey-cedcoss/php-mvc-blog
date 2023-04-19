@@ -1,0 +1,17 @@
+{
+    "name": "cedcoss/testcase",
+    "autoload": {
+        "psr-4": {
+            "Cedcoss\\Testcase\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deeksha01032023",
+            "email": "deekshapandey@cedcoss.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
